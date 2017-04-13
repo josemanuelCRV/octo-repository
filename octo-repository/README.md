@@ -1,22 +1,48 @@
 Welcome to StackEdit!
 ===================
+A design pattern is a **well-proved solution** <i class="icon-cog"></i> for solving the specific problem/task. 
 
+For example, to create a class for which only a single instance should be created and that single object can be used by all other classes, use Singleton design pattern.
 
-Hey! I'm your first Markdown document in **StackEdit**[^stackedit]. Don't delete me, I'm very helpful! I can be recovered anyway in the **Utils** tab of the <i class="icon-cog"></i> **Settings** dialog.
+Design patterns are programming language independent, it is for solving the common object-oriented design problems.
+
+A design pattern represents an idea, not an implementation. By using the design patterns we can make our code more flexible, reusable and maintainable. 
+Java itself internally follows design patterns.
 
 ----------
 
 
-Documents
+Design Pattern
 -------------
 
-StackEdit stores your documents in your browser, which means all your documents are automatically saved locally and are accessible **offline!**
+In core java, there are mainly three types of design patterns, which are further divided into their sub-parts:
 
-> **Note:**
-
-> - StackEdit is accessible offline after the application has been loaded for the first time.
-> - Your local documents are not shared between different browsers or computers.
-> - Clearing your browser's data may **delete all your local documents!** Make sure your documents are synchronized with **Google Drive** or **Dropbox** (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+> - Creational Design Pattern
+1. Factory Pattern
+2. Abstract Factory Pattern
+3. Singleton Pattern
+4. Prototype Pattern
+5. Builder Pattern.
+> - Structural Design Pattern
+1. Adapter Pattern
+2. Bridge Pattern
+3. Composite Pattern
+4. Decorator Pattern
+5. Facade Pattern
+6. Flyweight Pattern
+7. Proxy Pattern
+> - Behavioral Design Pattern (check out the [<i class="icon-refresh"></i> Synchronization](#synchronization) section).
+> Chain Of Responsibility Pattern
+1. Command Pattern
+2. Interpreter Pattern
+3. Iterator Pattern
+4. Mediator Pattern
+5. Memento Pattern
+6. Observer Pattern
+7. State Pattern
+8. Strategy Pattern
+9. Template Pattern
+10. Visitor Pattern
 
 #### <i class="icon-file"></i> Create a document
 
