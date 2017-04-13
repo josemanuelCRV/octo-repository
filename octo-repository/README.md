@@ -1,5 +1,5 @@
-Welcome to StackEdit!
-===================
+Java Design Pattern Introduction
+==========================
 A design pattern is a **well-proved solution** <i class="icon-cog"></i> for solving the specific problem/task. 
 
 For example, to create a class for which only a single instance should be created and that single object can be used by all other classes, use Singleton design pattern.
